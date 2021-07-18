@@ -1,1 +1,1 @@
-# gost-runner
+# C20
